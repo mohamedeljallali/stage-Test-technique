@@ -1,0 +1,140 @@
+.font-large{
+    font-size: 3rem;
+}
+
+.font-larger{
+    font-size: 4rem;
+}
+
+.logo-2{
+    width: 135px;
+    display: block;
+}
+.logo {
+  width: 20%;
+  margin-bottom: 12%;
+}
+
+.section1 {
+    background-color: #0a0a0a;
+    background-image: url('../img/41.png') , url('../img/Rectangle 6.png') , url('../img/42.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.section3_background{
+  background-color: #EEEDED;
+}
+
+
+.text-sec2{
+  color: #DB3D4C;
+  transform: translatey(55%);
+}
+
+.text-sec3{
+  transform: translatey(55%);
+}
+
+.text-sec4{
+  transform: translatey(75%);
+}
+
+.red{
+  color: #DB3D4C;
+}
+
+.grey{
+  color: #7C7C7C;
+}
+
+.bg-red{
+  background-color: #DB3D4C;
+  padding-top: 7rem;
+  padding-bottom: 2rem;
+  transform: translateY(-20%);
+  color: white;
+}
+
+.bg-grey{
+  background-color: #D9D9D9;
+  padding-top: 7rem;
+  padding-bottom: 2rem;
+  transform: translateY(-20%);
+  z-index: 1;
+}
+
+
+
+.line-height{
+  line-height: 2.5;
+}
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bg-polygone{
+  background-image: url('../img/Polygon\ 7.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+
+.circle1{
+  width: 124px;
+  height: 124px;
+  border-radius: 50%;
+  background-color: #DB3D4C;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../img/travail-en-equipe 1.png');
+  z-index: 2;
+}
+
+.circle2{
+  width: 124px;
+  height: 124px;
+  border-radius: 50%;
+  background-color: #DB3D4C;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../img/trophy (1) 1.png');
+  z-index: 2;
+}
+
+.circle3{
+  width: 124px;
+  height: 124px;
+  border-radius: 50%;
+  background-color: #DB3D4C;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../img/le-muscle\ 1.png');
+  
+  z-index: 2;
+}
+
+.padding-top{
+  padding-top: 10rem;
+}
+
+/* Poppins Font */
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
